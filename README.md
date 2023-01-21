@@ -6,5 +6,4 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-Or just go to this website:
-heispv.github.io/robofriends/
+Or just go to this [website](heispv.github.io/robofriends/)
